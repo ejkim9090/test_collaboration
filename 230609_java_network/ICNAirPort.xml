@@ -1,0 +1,82 @@
+
+
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<arrordep>D</arrordep>
+				<facilityitem>Chicken Pub Restaurant (Hunter Chiken, Boneless Fried
+					Chicken, Spicy and Sweet Chicken, Beef Chili Dog, Chicken Burger,
+					Shrimp Burger, Draft Beer)</facilityitem>
+				<facilitynm>CHIMAC HUNTER</facilitynm>
+				<floorinfo>4F</floorinfo>
+				<GOODS></GOODS>
+				<lcategorynm>Restaurants</lcategorynm>
+				<lcduty>Y</lcduty>
+				<lcnm>Near Gate 249 on 3F, Terminal 2</lcnm>
+				<mcategorynm>Food Court</mcategorynm>
+				<scategorynm>Foodium(Urban Square)</scategorynm>
+				<servicetime>07:00 ~ 16:00</servicetime>
+				<sn>2161</sn>
+				<tel>032-743-7193</tel>
+				<terminalid>P03</terminalid>
+			</item>
+			<item>
+				<arrordep>D</arrordep>
+				<facilityitem>Western Food(chicken &amp; beer), Fried Chicken,
+					Draught Beer</facilityitem>
+				<facilitynm>CHIMAC HUNTER/Temporary Closure</facilitynm>
+				<floorinfo>3F</floorinfo>
+				<GOODS></GOODS>
+				<lcategorynm>Restaurants</lcategorynm>
+				<lcduty>Y</lcduty>
+				<lcnm>Near Gate 118 on 3F, Concourse</lcnm>
+				<mcategorynm>Food Court</mcategorynm>
+				<scategorynm>Food Empire (Concourse WEST)</scategorynm>
+				<servicetime>10:00 ~ 22:00</servicetime>
+				<sn>2162</sn>
+				<tel>032-743-6265</tel>
+				<terminalid>G01</terminalid>
+			</item>
+			<item>
+				<arrordep>D</arrordep>
+				<facilityitem>Western Food(chicken &amp; beer), Fried Chicken,
+					Draught Beer</facilityitem>
+				<facilitynm>CHIMAC HUNTER/Temporary Closure</facilitynm>
+				<floorinfo></floorinfo>
+				<GOODS></GOODS>
+				<lcategorynm>Restaurants</lcategorynm>
+				<lcduty>Y</lcduty>
+				<lcnm>Near Gate 118 on 3F, Concourse</lcnm>
+				<mcategorynm>Western</mcategorynm>
+				<servicetime>10:00 ~ 22:00</servicetime>
+				<sn>2113</sn>
+				<tel>032-743-6265</tel>
+				<terminalid>G01</terminalid>
+			</item>
+			<item>
+				<arrordep>D</arrordep>
+				<facilityitem>Western Food(chicken &amp; beer), Fried Chicken,
+					Draught Beer, Chicken burger</facilityitem>
+				<facilitynm>CHIMAC HUNTER</facilitynm>
+				<floorinfo>4F</floorinfo>
+				<GOODS></GOODS>
+				<lcategorynm>Restaurants</lcategorynm>
+				<lcduty>Y</lcduty>
+				<lcnm>Near Gate 249 on 3F, Terminal 2</lcnm>
+				<mcategorynm>Western</mcategorynm>
+				<servicetime>07:00 ~ 15:00</servicetime>
+				<sn>1352</sn>
+				<tel>032-743-7193</tel>
+				<terminalid>P03</terminalid>
+			</item>
+		</items>
+		<numOfRows>10</numOfRows>
+		<pageNo>1</pageNo>
+		<totalCount>4</totalCount>
+	</body>
+</response>
