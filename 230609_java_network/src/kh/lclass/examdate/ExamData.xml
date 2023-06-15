@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<implYy>2023</implYy>
+				<implSeq>1</implSeq>
+				<qualgbCd>T</qualgbCd>
+				<qualgbNm>국가기술자격</qualgbNm>
+				<description>국가기술자격 기능사 (2023년도 제1회)</description>
+				<docRegStartDt>20230109</docRegStartDt>
+				<docRegEndDt>20230112</docRegEndDt>
+				<docExamStartDt>20230128</docExamStartDt>
+				<docExamEndDt>20230201</docExamEndDt>
+				<docPassDt>20230208</docPassDt>
+				<pracRegStartDt>20230220</pracRegStartDt>
+				<pracRegEndDt>20230320</pracRegEndDt>
+				<pracExamStartDt>20230325</pracExamStartDt>
+				<pracExamEndDt>20230413</pracExamEndDt>
+				<pracPassDt>20230419</pracPassDt>
+			</item>
+			<item>
+				<implYy>2023</implYy>
+				<implSeq>1</implSeq>
+				<qualgbCd>T</qualgbCd>
+				<qualgbNm>국가기술자격</qualgbNm>
+				<description>국가기술자격 기능사 (2023년도 제1회)</description>
+				<docRegStartDt>20230122</docRegStartDt>
+				<docRegEndDt>20230123</docRegEndDt>
+				<docExamStartDt>20230128</docExamStartDt>
+				<docExamEndDt>20230201</docExamEndDt>
+				<docPassDt>20230208</docPassDt>
+				<pracRegStartDt>20230220</pracRegStartDt>
+				<pracRegEndDt>20230320</pracRegEndDt>
+				<pracExamStartDt>20230325</pracExamStartDt>
+				<pracExamEndDt>20230413</pracExamEndDt>
+				<pracPassDt>20230419</pracPassDt>
+			</item>
+			<item>
+				<implYy>2023</implYy>
+				<implSeq>2</implSeq>
+				<qualgbCd>T</qualgbCd>
+				<qualgbNm>국가기술자격</qualgbNm>
+				<description>국가기술자격 기능사 (2023년도 제2회)</description>
+				<docRegStartDt>20230313</docRegStartDt>
+				<docRegEndDt>20230316</docRegEndDt>
+				<docExamStartDt>20230408</docExamStartDt>
+				<docExamEndDt>20230412</docExamEndDt>
+				<docPassDt>20230419</docPassDt>
+				<pracRegStartDt>20230508</pracRegStartDt>
+				<pracRegEndDt>20230605</pracRegEndDt>
+				<pracExamStartDt>20230610</pracExamStartDt>
+				<pracExamEndDt>20230628</pracExamEndDt>
+				<pracPassDt>20230705</pracPassDt>
+			</item>
+			<item>
+				<implYy>2023</implYy>
+				<implSeq>2</implSeq>
+				<qualgbCd>T</qualgbCd>
+				<qualgbNm>국가기술자격</qualgbNm>
+				<description>국가기술자격 기능사 (2023년도 제2회)</description>
+				<docRegStartDt>20230402</docRegStartDt>
+				<docRegEndDt>20230403</docRegEndDt>
+				<docExamStartDt>20230408</docExamStartDt>
+				<docExamEndDt>20230412</docExamEndDt>
+				<docPassDt>20230419</docPassDt>
+				<pracRegStartDt>20230508</pracRegStartDt>
+				<pracRegEndDt>20230605</pracRegEndDt>
+				<pracExamStartDt>20230610</pracExamStartDt>
+				<pracExamEndDt>20230628</pracExamEndDt>
+				<pracPassDt>20230705</pracPassDt>
+			</item>
+			<item>
+				<implYy>2023</implYy>
+				<implSeq>3</implSeq>
+				<qualgbCd>T</qualgbCd>
+				<qualgbNm>국가기술자격</qualgbNm>
+				<description>국가기술자격 기능사 (2023년도 제3회)</description>
+				<docRegStartDt>20230522</docRegStartDt>
+				<docRegEndDt>20230525</docRegEndDt>
+				<docExamStartDt>20230624</docExamStartDt>
+				<docExamEndDt>20230629</docExamEndDt>
+				<docPassDt>20230706</docPassDt>
+				<pracRegStartDt>20230717</pracRegStartDt>
+				<pracRegEndDt>20230720</pracRegEndDt>
+				<pracExamStartDt>20230812</pracExamStartDt>
+				<pracExamEndDt>20230825</pracExamEndDt>
+				<pracPassDt>20230913</pracPassDt>
+			</item>
+			<item>
+				<implYy>2023</implYy>
+				<implSeq>3</implSeq>
+				<qualgbCd>T</qualgbCd>
+				<qualgbNm>국가기술자격</qualgbNm>
+				<description>국가기술자격 기능사 (2023년도 제3회)</description>
+				<docRegStartDt>20230618</docRegStartDt>
+				<docRegEndDt>20230619</docRegEndDt>
+				<docExamStartDt>20230624</docExamStartDt>
+				<docExamEndDt>20230629</docExamEndDt>
+				<docPassDt>20230706</docPassDt>
+				<pracRegStartDt>20230717</pracRegStartDt>
+				<pracRegEndDt>20230720</pracRegEndDt>
+				<pracExamStartDt>20230812</pracExamStartDt>
+				<pracExamEndDt>20230825</pracExamEndDt>
+				<pracPassDt>20230913</pracPassDt>
+			</item>
+			<item>
+				<implYy>2023</implYy>
+				<implSeq>4</implSeq>
+				<qualgbCd>T</qualgbCd>
+				<qualgbNm>국가기술자격</qualgbNm>
+				<description>국가기술자격 기능사 (2023년도 제4회)</description>
+				<docRegStartDt>20230828</docRegStartDt>
+				<docRegEndDt>20230831</docRegEndDt>
+				<docExamStartDt>20230919</docExamStartDt>
+				<docExamEndDt>20230924</docExamEndDt>
+				<docPassDt>20231011</docPassDt>
+				<pracRegStartDt>20231016</pracRegStartDt>
+				<pracRegEndDt>20231019</pracRegEndDt>
+				<pracExamStartDt>20231118</pracExamStartDt>
+				<pracExamEndDt>20231201</pracExamEndDt>
+				<pracPassDt>20231213</pracPassDt>
+			</item>
+			<item>
+				<implYy>2023</implYy>
+				<implSeq>0</implSeq>
+				<qualgbCd>T</qualgbCd>
+				<qualgbNm>국가기술자격</qualgbNm>
+				<description>국가기술자격 기능사 (2023년도 제0회)</description>
+				<docRegStartDt />
+				<docRegEndDt />
+				<docExamStartDt />
+				<docExamEndDt />
+				<docPassDt />
+				<pracRegStartDt>20230515</pracRegStartDt>
+				<pracRegEndDt>20230518</pracRegEndDt>
+				<pracExamStartDt>20230624</pracExamStartDt>
+				<pracExamEndDt>20230704</pracExamEndDt>
+				<pracPassDt>20230712</pracPassDt>
+			</item>
+		</items>
+		<numOfRows>10</numOfRows>
+		<pageNo>1</pageNo>
+		<totalCount>8</totalCount>
+	</body>
+</response>
